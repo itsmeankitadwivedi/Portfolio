@@ -1,0 +1,130 @@
+# Prompt: Create a Professional Portfolio Website for a Fresher
+
+Act as an expert UI/UX designer and front-end web developer.
+
+Create a modern, professional and responsive personal portfolio website using only HTML5, CSS3 and Vanilla JavaScript. The website will be hosted on GitHub Pages.
+
+## 1. My Personal Information
+
+- Full Name: Ankita Tiwari
+- Professional Title: Computer Science & Engineering | CITS Trainee
+- Career Goal: Government Instructor
+- Location: Kanpur, Uttar Pradesh, India
+- Email: ankita@123gmail.com
+- Phone: +91 9250431576
+- LinkedIn: [Add LinkedIn profile URL when available]
+- GitHub: [Add GitHub profile URL when available]
+- Profile Photo: assets/images/profile-photo.jpg
+
+## 2. Educational Background
+
+- Current Qualification: Currently pursuing CITS
+- Institute Name: [Add CITS institute name]
+- Trade: CSA (as stated in the CV career objective)
+- Session: [Add session]
+- Previous Qualification 1: Diploma in Computer Science & Engineering (CSE), 3-year diploma
+- Institute Name: [Add diploma institute name]
+- Passing Year: [Add passing year]
+- Previous Qualification 2: Graduation (B.Sc.), 70%
+- Institute Name: [Add institute name]
+- Passing Year: [Add passing year]
+- Previous Qualification 3: Post Graduation (PG), Completed
+- Institute Name: [Add institute name]
+- Passing Year: [Add passing year]
+- Previous Qualification 4: Intermediate (12th), 70%
+- Institute Name: Kamla Badawan Inter College, Kanpur
+- Passing Year: [Add passing year]
+- Previous Qualification 5: High School (10th), 70%
+- Institute Name: Kamla Badawan College, Kanpur
+- Passing Year: [Add passing year]
+
+## 3. Technical Skills
+
+- Programming: Python (Basic), C/C++ (Basic)
+- Web Technologies: HTML, CSS, JavaScript (Basic)
+- Database: MySQL (Basic)
+- Computer Skills: MS Word, Excel, PowerPoint, Internet & Email Handling
+- Operating System: Windows
+- Soft Skills: Communication Skills, Teamwork, Problem-Solving, Time Management, Willingness to Learn
+- Core Trade Skills: [Add specific CSA practical skills when available]
+- Software & Tools: [Add other tools only if applicable]
+
+## 4. Projects
+
+No projects were listed in the supplied CV. Do not invent project details. Hide the Projects section until project information and images are provided.
+
+## 5. Internship / Apprenticeship / Training
+
+- Organization: [Add CITS institute / organization name]
+- Duration: [Add duration]
+- Role: CITS Trainee
+- Skills Learned: [Add practical training skills]
+- Note: The CV states that CITS is currently being pursued. Do not present it as completed.
+
+## 6. Certifications
+
+No separate certifications were listed in the supplied CV. Hide the Certifications section until certificate details are provided.
+
+## 7. Website Requirements
+
+Create the following sections:
+1. Home – Name, professional headline, introduction and call-to-action buttons.
+2. About Me – Short professional introduction.
+3. Education – Academic qualifications and current CITS training.
+4. Skills – Technical and soft skills.
+5. Projects – Hide when no verified projects are available.
+6. Internship / Training – Show current CITS training; do not invent an organization or duration.
+7. Certifications – Hide when no verified certificates are available.
+8. Contact – Email and phone; show LinkedIn and GitHub only after URLs are supplied.
+
+## 8. Design Requirements
+
+- Modern and professional design.
+- Attractive hero section.
+- Responsive layout for mobile, tablet and desktop.
+- Professional typography and color combinations.
+- Smooth scrolling and subtle animations.
+- Light and dark theme toggle.
+- Project cards with hover effects when projects are added.
+- Mobile-friendly navigation.
+- Download Resume button.
+- Working email and phone contact links.
+
+## 9. Technical Requirements
+
+Use only HTML5, CSS3 and Vanilla JavaScript. Do not use React, Angular, Vue, PHP, databases or backend technologies.
+
+Create this structure:
+
+portfolio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── images/
+│   │   └── profile-photo.jpg
+│   └── documents/
+│       └── resume.pdf
+└── README.md
+
+Ensure the website works directly on GitHub Pages without a build process.
+
+## 10. Important Instructions
+
+- Do not invent qualifications, skills, certificates or project experience.
+- Use placeholders wherever information is missing.
+- Do not display empty sections.
+- Use simple, professional language.
+- Write clean and well-commented code.
+- Make all sections easy to update.
+- Ensure all buttons and links work.
+- Provide the complete code for every file.
+
+## Source notes / items to confirm
+
+- The supplied CV states CITS (CSA Trade) in the career objective and says CITS is currently being pursued.
+- The CV does not provide passing years, institute names for Diploma/B.Sc./PG/CITS, CITS session, project details, internship organization/duration, certificate details, LinkedIn URL or GitHub URL.
+- The CV career objective mentions BCA education, but the Education section lists Diploma in CSE, B.Sc. and PG. The website uses the qualifications listed in the Education section and does not add BCA as a qualification.
+- The supplied CV lists a sample-style email address; it has been copied exactly and should be checked before publishing.
